@@ -22,3 +22,5 @@ class Solution:
                 a.remove(j)
         for z in a:
             return z
+
+
